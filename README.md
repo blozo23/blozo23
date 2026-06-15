@@ -1,4 +1,4 @@
-# Hi there, I'm Sérgio Veloso! 👋
+# Hi there, I'm Sérgio Veloso! 
 
 <p align="left">
   <a href="https://www.linkedin.com/in/s%C3%A9rgio-veloso-411295255/" target="_blank">
@@ -9,21 +9,21 @@
   </a>
 </p>
 
-## 🚀 About Me
+## About Me
 I am a software and systems enthusiast with a solid background bridging hardware, electronics, and software development. With nearly three years of corporate experience in technology advisory and infrastructure projects, I excel at analyzing complex problems and engineering clean, logical solutions. 
 
 Currently, I am expanding my software engineering toolkit through advanced training in Information Systems, focusing heavily on modern programming paradigms and robust application design.
 
-- ⚙️ **Current Focus:** Object-Oriented Programming (OOP), system logic, and building clean desktop applications.
-- 🎓 **Background:** Integrated Master's studies in Electronic and Telecommunications Engineering (University of Aveiro) & currently pursuing a CET in Technologies and Information Systems.
-- 💼 **Professional Experience:** Former Advisor & Trainee at KPMG, working on large-scale infrastructure, network security, and systems benchmarking.
-- 🔧 **Hardware Enthusiast:** Passionate about custom desktop builds and system optimization.
+- **Current Focus:** Object-Oriented Programming (OOP), system logic, and building clean desktop applications.
+- **Background:** Integrated Master's studies in Electronic and Telecommunications Engineering (University of Aveiro) & currently pursuing a CET in Technologies and Information Systems.
+- **Professional Experience:** Former Advisor & Trainee at KPMG, working on large-scale infrastructure, network security, and systems benchmarking.
+- **Hardware Enthusiast:** Passionate about custom desktop builds and system optimization.
 
 ---
 
 ## 🛠️ Languages & Technologies
 
-### 💻 Programming Languages
+### Programming Languages
 <p align="left">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
@@ -33,7 +33,7 @@ Currently, I am expanding my software engineering toolkit through advanced train
   <img src="https://img.shields.io/badge/Assembly-%23007ACC.svg?style=for-the-badge&logo=webassembly&logoColor=white" alt="Assembly" />
 </p>
 
-### 🧰 Tools, Networks & Ecosystems
+### Tools, Networks & Ecosystems
 <p align="left">
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />

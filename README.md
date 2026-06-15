@@ -43,7 +43,7 @@ Currently, I am expanding my software engineering toolkit through advanced train
 
 ---
 
-![hippo] (https://giphy.com/gifs/scaler-official-monday-computer-laptop-scZPhLqaVOM1qG4lT9)
+![hippo] (https://giphy.com/gifs/scaler-official-monday-computer-laptop-scZPhLqaVOM1qG4lT9.gif)
 
 ## GitHub Stats
 

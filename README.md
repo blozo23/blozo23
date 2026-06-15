@@ -30,6 +30,7 @@ Currently, I am expanding my software engineering toolkit through advanced train
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/MATLAB-%23ED1C24.svg?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB" />
+  <img src="https://img.shields.io/badge/Assembly-%23007ACC.svg?style=for-the-badge&logo=webassembly&logoColor=white" alt="Assembly" />
 </p>
 
 ### 🧰 Tools, Networks & Ecosystems
@@ -47,10 +48,4 @@ Currently, I am expanding my software engineering toolkit through advanced train
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=blozo23&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Sérgio's GitHub Stats" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blozo23&layout=compact&theme=radical&hide_on_parent=false" alt="Top Languages" height="180" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghvc/?username=blozo23&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>

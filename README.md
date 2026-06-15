@@ -45,12 +45,12 @@ Currently, I am expanding my software engineering toolkit through advanced train
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Sérgio's GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_on_parent=false" alt="Top Languages" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=blozo23&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Sérgio's GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blozo23&layout=compact&theme=radical&hide_on_parent=false" alt="Top Languages" height="180" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghvc/?username=blozo23&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>

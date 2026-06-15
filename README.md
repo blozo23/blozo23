@@ -21,7 +21,7 @@ Currently, I am expanding my software engineering toolkit through advanced train
 
 ---
 
-## 🛠️ Languages & Technologies
+## Languages & Technologies
 
 ### Programming Languages
 <p align="left">
@@ -43,7 +43,7 @@ Currently, I am expanding my software engineering toolkit through advanced train
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=blozo23&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Sérgio's GitHub Stats" height="180" />
